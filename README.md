@@ -1,6 +1,6 @@
 # Windows 惯性滚轮脚本 (Inertia Scroll for AHK v2)
 
-这是一个轻量级的 AutoHotkey v2 脚本，旨在为 Windows 系统带来类似 macOS 或智能手机触摸屏那样的**丝滑惯性滚动**体验。
+这是一个轻量级的 AutoHotkey v2 脚本，旨在在Windows 系统的普通鼠标带来类似罗技Master 3s高端鼠标无极滚轮那样的**丝滑惯性滚动**体验。
 
 ## ✨ 主要功能 (Features)
 
